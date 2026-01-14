@@ -1,3 +1,29 @@
+/*
+BRAND GUIDELINES
+---------------TYPOGRAPHY---------------
+FONT SIZES :    12px / 16px / 20px / 24px / 32px / 40px
+FONT WEIGHTS :  400 / 700
+LINE HEIGHTS :  1.2 / 1.5
+LETTER SPACING : 0 / -2px
+FONT FAMILY :   Poppins
+---------------COLORS---------------
+PRIMARY :
+Base: #339af0 (Sky Blue)
+Tint: #d0ebff (Arctic)
+Shade: #1c7ed6 (Deep Sea)
+
+SECONDARY :
+Base: #9775fa (Lavendar)
+Tint: #e5dbff (Moonligh Iris)
+Shade: #7048e8 (Velvet Night)
+
+TERTIARY :
+Base: #ff922b (Pumpkin)
+Tint: #ffe8cc (Dawn)
+Shade: #f767Ø7 (Lava)
+
+*/
+
 * {
     box-sizing: border-box;
 }
